@@ -1,0 +1,17 @@
+D:\cs2_servers\game\csgo\addons_code\pet\obj\Debug\net8.0\pet.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs2_servers\game\csgo\addons_code\pet\obj\Debug\net8.0\pet.AssemblyInfoInputs.cache
+D:\cs2_servers\game\csgo\addons_code\pet\obj\Debug\net8.0\pet.AssemblyInfo.cs
+D:\cs2_servers\game\csgo\addons_code\pet\obj\Debug\net8.0\pet.csproj.CoreCompileInputs.cache
+D:\cs2_servers\game\csgo\addons_code\pet\obj\Debug\net8.0\pet.csproj.AssemblyReference.cache
+D:\cs2_servers\game\csgo\addons_code\pet\bin\Debug\net8.0\pet.deps.json
+D:\cs2_servers\game\csgo\addons_code\pet\bin\Debug\net8.0\pet.dll
+D:\cs2_servers\game\csgo\addons_code\pet\bin\Debug\net8.0\pet.pdb
+D:\cs2_servers\game\csgo\addons_code\pet\bin\Debug\net8.0\CounterStrikeSharp.API.dll
+D:\cs2_servers\game\csgo\addons_code\pet\obj\Debug\net8.0\pet.csproj.Up2Date
+D:\cs2_servers\game\csgo\addons_code\pet\obj\Debug\net8.0\pet.dll
+D:\cs2_servers\game\csgo\addons_code\pet\obj\Debug\net8.0\refint\pet.dll
+D:\cs2_servers\game\csgo\addons_code\pet\obj\Debug\net8.0\pet.pdb
+D:\cs2_servers\game\csgo\addons_code\pet\obj\Debug\net8.0\ref\pet.dll
+D:\cs2_servers\game\csgo\addons\counterstrikesharp\plugins\pet\pet.deps.json
+D:\cs2_servers\game\csgo\addons\counterstrikesharp\plugins\pet\pet.dll
+D:\cs2_servers\game\csgo\addons\counterstrikesharp\plugins\pet\pet.pdb
